@@ -3,5 +3,5 @@
   :url "http://github.com/piranha/ring-adapter-undertow"
   :license {:name "ISC License"
             :url "http://opensource.org/licenses/ISC"}
-  :dependencies [[io.undertow/undertow-core "1.0.0.Beta8"]]
-  :profiles {:dev {:dependencies [[clj-http "0.7.6"]]}})
+  :dependencies [[io.undertow/undertow-core "1.0.0.Beta30"]]
+  :profiles {:dev {:dependencies [[clj-http "0.7.8"]]}})
